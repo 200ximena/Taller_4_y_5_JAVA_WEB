@@ -29,6 +29,8 @@ $ Descargar proyecto
 ## Funciones
 ***
 Las funciones de este proyecto aun no estan definidas
+![image](https://user-images.githubusercontent.com/128264476/236560731-bcba989e-c3e6-44b9-bebb-06c129e65c2a.png)
+
 
 ## Cómo contribuir
 ***
