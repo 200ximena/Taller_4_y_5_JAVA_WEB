@@ -29,7 +29,13 @@ $ Descargar proyecto
 ## Funciones
 ***
 Las funciones de este proyecto aun no estan definidas
-![image](https://user-images.githubusercontent.com/128264476/236560731-bcba989e-c3e6-44b9-bebb-06c129e65c2a.png)
+![image](https://user-images.githubusercontent.com/128264476/236561360-d0fb8884-e87a-442c-9599-9725df3daa92.png)
+
+![image](https://user-images.githubusercontent.com/128264476/236561406-bcf03967-526c-4128-9121-606d58ac60b6.png)
+
+
+![image](https://user-images.githubusercontent.com/128264476/236560872-c1752b42-c5d7-44cf-a2a5-af103f17994a.png)
+
 
 
 ## Cómo contribuir
